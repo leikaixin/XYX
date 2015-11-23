@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://119.29.14.156/appicon.png</string>
+                   <string>http://119.29.14.156/appicon57.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://119.29.14.156/appicon.png</string>
+                   <string>http://119.29.14.156/appicon512.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
                <string>com.360ads.360adsInhouse</string>
                <key>bundle-version</key>
-               <string>1.0.0</string>
+               <string>1.0.2</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>app</string>
+               <string>享e下</string>
                <key>title</key>
-               <string>app</string>
+               <string>享e下</string>
            </dict>
        </dict>
    </array>
@@ -48,4 +48,3 @@
 </plist>
 
 # hdq
-# XYX
